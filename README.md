@@ -77,7 +77,8 @@ Image(url='imgs/orb-weaver_mating.jpg', width=500, height=350)
 ```
 
 
-<iframe width="600" height="350" src="https://www.youtube.com/embed/j4DdbTiF00U?si=L7F4d3o89rXsDYz9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/j4DdbTiF00U/0.jpg)](https://www.youtube.com/watch?v=j4DdbTiF00U)
+
 
 
 
