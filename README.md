@@ -269,10 +269,6 @@ show(gridplot([[p1, p2, p3]]))
 
 ![Plot 1](imgs/bokeh_plot.png)
 
-    <div>
-        <a href="https://bokeh.org" target="_blank" class="bk-notebook-logo"></a>
-        <span id="e6afad8e-183a-43ae-8bd8-8ab86f04dfd4">Loading BokehJS ...</span>
-    </div>
 
 
 
@@ -447,15 +443,6 @@ show(p_low_agility)
 
 
 
-<div id="b8d3011c-528a-478f-9820-2cc1df4904fd" data-root-id="p1134" style="display: contents;"></div>
-
-
-
-
-
-
-
-<div id="a9e70162-321a-4ab2-b92e-2bb605141be3" data-root-id="p1163" style="display: contents;"></div>
 
 
 
