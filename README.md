@@ -267,7 +267,7 @@ show(gridplot([[p1, p2, p3]]))
     
 
 
-![Plot 1](images/bokeh_plot.png)
+![Plot 1](imgs/bokeh_plot.png)
 
     <div>
         <a href="https://bokeh.org" target="_blank" class="bk-notebook-logo"></a>
