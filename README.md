@@ -1,6 +1,8 @@
 ## 1. Introduction
 
-In this notebook we will try to investigate and simulate the physics of the catapulting mechanism observed in  Philoponella prominens also known as orb-weaver spiders and later run a simulation to see post coital survival of male spiders and how it affects the population dynamics in an orb weaver colony. The first few cells discuss the findings and experiments done in lab by the researchers.In the mid section we delve into simulating the physics of the catapult mechanism and later sections the population simulation of the spiders.
+In this notebook, we investigate and simulate the physics of the catapulting mechanism observed in Philoponella prominens, also known as orb-weaver spiders, and explore how this behavior influences post-coital survival of males and the resulting population dynamics within a colony. The first section discusses findings and laboratory experiments conducted by researchers. In the mid-section, we simulate the physics behind the catapult mechanism, followed by population-level simulations of the spiders.
+
+Beyond biomechanics, this work also highlights the remarkable evidence of intelligence and tool use in orb-weaver spiders. Male spiders not only rely on their catapulting escape but also make adaptive use of silk safety lines as anchoring tools, demonstrating problem-solving strategies that enhance survival and reproductive success. By integrating physics, population dynamics, and cognitive behavior, this notebook provides a broader view of how such intelligent adaptations shape evolutionary outcomes in these spiders.
 
 ## 2. An Overview of Spider Biology and Ecology
 
