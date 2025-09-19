@@ -451,30 +451,31 @@ show(p_low_agility)
 
 
 
+
+## Evidence of Intelligence and Tool Use
+
+The Orb weaver spiders (Philoponella prominens) also show Intelligent behaviour and tool use, evidenced by the use of `safety lines`. They attach a silk still connected to their spinneret as safety lines and use them as anchors for the catapult jump, which itself is a remarkable adaptive behavior with respect to cannibalism. The catapult's success is crucial for the male spiders as it increases the males’ chances of survival and reproduction. Also, cannibalism behavior shown by female spiders ensures that the low-agility spiders are eliminated from the population. The safety line also prevents the male from falling or falling further to the ground, and allows him to climb back to the female's web for further mating. Coupled with the fact that spiders have a centralized nervous system, unlike other arthropods, these behaviors demonstrate a high level of coordination, motor control, navigation skills, and adaptation to the environment, which may indicate some form of intelligence and problem-solving skills in spiders.
+
 ## Future Improvements
 
-We can improve the models accuracy by accounting  for
+We can improve the model's accuracy by accounting  for
 * healthy spiders failing to catapult due to environmental factors like wind.
-* also for some cases where male spiders(healthy) fall down before mating and then attempt to mate again but fail to catapult successfully due to exhaustion.
+* also for some cases where male spiders(healthy) fall down before mating and then attempt to mate again, but fail to catapult successfully due to exhaustion.
 
-in both cases the spider ends ou dead but passes high agility genes to the offspring.
-conversely, in some cases a low agility spiders might successfully catapult to safety while passing on low agility genes.
-
-## Evidence of Intelligence and tool use
-
-The Orb weaver spiders (Philoponella prominens) also show Intelligent behaviour and tool use evidenced by use of `safety lines` . They attach a silk still connected to their spinneret as safety lines and use them as anchors for the catapult jump which itself is a remarkable adaptive behavior with respect to cannibalism. The catapults success is a crucial for the male spiders as it increases the high agility male’s chances of survival and reproduction. Also, cannibalism behavior shown by female spiders ensures that the low agility spiders gets eliminated from the population. The safety line also prevents the male from falling or falling futher to the ground, and allows him to climb back to the female web for further mating.Coupled with the fact that spiders have a cenralised nervous system unlike othe rarthropods these behaviors demonstrate a high level of coordination, motor-control, navigating skills and adaptation to the environment, which may indicate some form of intelligence and problem-solving skills in spiders.
+In both cases, the spider ends up dead but passes high agility genes to the offspring.
+Conversely, in some cases, agility spiders might successfully catapult to safety while passing on low-agility genes.
 
 # Conclusion
 
-In this report, we discussed the remarkable behavior of the orb-weaver spider (Philoponella prominens) which uses a catapult mechanism and a safety line to avoid sexual cannibalism and increase its reproductive success. This behavior is an example of intelligence and tool use in a small-brained animal, which challenges the assumption that complex cognition is limited to large-brained animals. There are examples of similar intelligent behavior other species of spiders such as:
+In this report, we discussed the remarkable behavior of the orb-weaver spider (Philoponella prominens) which uses a catapult mechanism and a safety line to avoid sexual cannibalism and increase its reproductive success. This behavior is an example of intelligence and tool use in a small-brained animal, which challenges the assumption that complex cognition is limited to large-brained animals. There are examples of similar intelligent behavior in other species of spiders, such as:
 
 * The nursery web spider Pisaura mirabilis, which ties up the female with silk before mating to prevent her from attacking.
-* The orb-weaver spider Nephila pilipes, which breaks off one of its legs and leaves it on the web as a decoy to distract the female while he mates.
+* The orb-weaver spider Nephila pilipes breaks off one of its legs and leaves it on the web as a decoy to distract the female while it mates.
 * The jumping spider Portia fimbriata, which plans out elaborate detours and strategies to hunt other spiders, and can even learn from its own mistakes.
 
 These examples show that spiders are capable of performing sophisticated tasks that require coordination, navigation skills, timing, adaptation, and problem-solving skills. They also suggest that spiders may have more cognitive abilities than previously thought, such as learning, memory, and decision-making. 
 
-Some question that we need to ask are how do spiders process information with their tiny brains?  and do they cope with changing environments and real time problem situations? etc to answer these questions we need more research and experiments on spider behavior using methods that are suitable and ethical for these animals. By doing so we can gain a better understanding of the diversity and evolution of cognition in the animal kingdom, and appreciate the amazing abilities of these small but smart creatures.
+Some questions that we need to ask are how spiders process information with their tiny brains?  And do they cope with changing environments and real-time problem situations? etc to answer these questions, we need more research and experiments on spider behavior using methods that are suitable and ethical for these animals. By doing so, we can gain a better understanding of the diversity and evolution of cognition in the animal kingdom and appreciate the amazing abilities of these small but smart creatures.
 
 # References
 
